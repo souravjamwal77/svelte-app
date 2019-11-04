@@ -15,6 +15,7 @@
     "sirv-cli": "^0.4.4"
   },
   "scripts": {
+  	"test": "mocha --opts mocha.opts",
     "build": "rollup -c",
     "autobuild": "rollup -c -w",
     "dev": "run-p start:dev autobuild",
