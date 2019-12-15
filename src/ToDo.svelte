@@ -1,7 +1,7 @@
 
 <div class="form">
   <form>
-    <input type="text" name="toDo" placeholder="Enter item name" autofocus="autofocus">
+    <input type="text" name="toDo" placeholder="Enter item name">
   </form>
   <div class="toDoItems">
     <ul>
